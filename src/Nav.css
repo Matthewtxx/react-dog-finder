@@ -1,0 +1,18 @@
+/* Nav.css */
+.navbar {
+    background-color: #333;
+    color: #fff; 
+    padding: 10px 0; 
+    text-align: center;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: #fff; 
+    margin: 0 10px; 
+  }
+  
+  .nav-link:hover {
+    text-decoration: underline; 
+  }
+  
